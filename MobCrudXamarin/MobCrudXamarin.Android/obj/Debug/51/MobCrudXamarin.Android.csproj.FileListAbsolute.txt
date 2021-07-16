@@ -1,0 +1,3 @@
+C:\Users\Kusu\Desktop\Mobile-Crud-Application\MobCrudXamarin\MobCrudXamarin.Android\obj\Debug\51\MonoAndroid,Version=v5.1.AssemblyAttributes.cs
+C:\Users\Kusu\Desktop\Mobile-Crud-Application\MobCrudXamarin\MobCrudXamarin.Android\obj\Debug\51\build.props
+C:\Users\Kusu\Desktop\Mobile-Crud-Application\MobCrudXamarin\MobCrudXamarin.Android\obj\Debug\51\adb.props
